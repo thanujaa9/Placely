@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Placely</string>
+
+    <!-- Bottom Navigation Titles -->
+    <string name="home_title">Home</string>
+    <string name="reminders_title">Reminders</string>
+    <string name="tasks_title">Tasks</string>
+    <string name="notes_title">Notes</string>
+    <string name="calendar_title">Calendar</string>
+
+    <!-- Screen Titles -->
+    <string name="add_reminder_title">Add Reminder</string>
+    <string name="edit_reminder_title">Edit Reminder</string>
+    <string name="add_note_title">Add Note</string>
+    <string name="edit_note_title">Edit Note</string>
+    <string name="add_task_title">Add Task</string>
+    <string name="edit_task_title">Edit Task</string>
+    <string name="view_note_title">View Note</string>
+    <string name="view_reminder_title">View Reminder</string>
+    <string name="settings_title">Settings</string>
+
+    <!-- Common Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+
+    <!-- Task Related -->
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="priority">Priority</string>
+    <string name="high_priority">High</string>
+    <string name="medium_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <!-- Note Related -->
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note Content</string>
+
+    <!-- Reminder Related -->
+    <string name="reminder_title">Reminder Title</string>
+    <string name="reminder_description">Description</string>
+    <string name="reminder_date">Reminder Date</string>
+    <string name="reminder_time">Reminder Time</string>
+
+    <!-- Messages -->
+    <string name="task_saved">Task saved successfully</string>
+    <string name="note_saved">Note saved successfully</string>
+    <string name="reminder_saved">Reminder saved successfully</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="error_saving">Error saving item</string>
+
+    <!-- Empty States -->
+    <string name="no_tasks">No tasks yet. Tap + to add one!</string>
+    <string name="no_notes">No notes yet. Start writing!</string>
+    <string name="no_reminders">No reminders set. Add your first one!</string>
+
+    <!-- Calendar -->
+    <string name="calendar_coming_soon">Calendar View Coming Soon!</string>
+</resources>
