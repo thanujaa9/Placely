@@ -170,8 +170,9 @@ app/src/main/java/com/example/placely/
    - Click "Run" or press Shift + F10
 
 ### Alternative: Install APK Directly
+**Download the APK:**  
+[Placely v1.0 APK](https://drive.google.com/file/d/1Nf0qHqdExmRAiO5cQcuNCya95Y3GQNnK/view?usp=sharing)
 
-**Download the APK**: [Placely v1.0 APK]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1Nf0qHqdExmRAiO5cQcuNCya95Y3GQNnK/view?usp=sharing))
 
 #### Installation on Android Device:
 1. Download the APK from the link above
@@ -358,7 +359,8 @@ CREATE TABLE notes (
 
 **Latest Release: v1.0.0**
 
-📥 **[Download Placely APK]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1Nf0qHqdExmRAiO5cQcuNCya95Y3GQNnK/view?usp=sharing))**
+📥 **Download the APK:**  
+[Placely v1.0 APK](https://drive.google.com/file/d/1Nf0qHqdExmRAiO5cQcuNCya95Y3GQNnK/view?usp=sharing)
 
 **Installation Instructions:**
 1. Download the APK from the link above
