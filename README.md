@@ -185,20 +185,32 @@ app/src/main/java/com/example/placely/
 
 📱 App Screenshots
 
-🗓️ Calendar Screen
-<img src="https://drive.google.com/uc?export=view&id=1QVhBOqMS-4V5UKSKQC8RDASeBC3LLerf" width="300"/>
+
+
+
 
 🏠 Home Screen
 <img src="https://drive.google.com/uc?export=view&id=1mGzO1qP5ShmoHbaWT-YqXIUPHVZIlDGk" width="300"/>
 
+
+
 📝 Notes Screen
 <img src="https://drive.google.com/uc?export=view&id=1LJHaZYCAGy6YTZ_yYmUqRXTXLJnMfBm8" width="300"/>
+
+
 
 ⏰ Reminders Screen
 <img src="https://drive.google.com/uc?export=view&id=1CbkkHNSNOHr0XxEEroGeFkF2zTp98rfU" width="300"/>
 
+
 🗂️ Tasks Screen
 <img src="https://drive.google.com/uc?export=view&id=1WUvN_LaFPioKXQbfqb9CKDjQx94mU8tX" width="300"/>
+
+
+
+
+🗓️ Calendar Screen
+<img src="https://drive.google.com/uc?export=view&id=1QVhBOqMS-4V5UKSKQC8RDASeBC3LLerf" width="300"/>
 
 ---
 
