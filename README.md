@@ -187,16 +187,22 @@ app/src/main/java/com/example/placely/
 
 ### Home Screen
 
-<img src="screenshots/home_screen.png" width="250">
+
+
+![Home Screen](https://drive.google.com/file/d/1mGzO1qP5ShmoHbaWT-YqXIUPHVZIlDGk/view?usp=sharing)
+
 
 ### Reminders
-<img src="screenshots/reminders.png" width="250">
+
+![Reminders Screen](https://drive.google.com/file/d/1CbkkHNSNOHr0XxEEroGeFkF2zTp98rfU/view?usp=sharing)
 
 ### Tasks
-<img src="screenshots/tasks.png" width="250">
 
-### Notes
-<img src="screenshots/notes.png" width="250">
+![Tasks Screen](https://drive.google.com/file/d/1WUvN_LaFPioKXQbfqb9CKDjQx94mU8tX/view?usp=sharing)
+
+### Calender
+
+![Calender Screen]((https://drive.google.com/file/d/1QVhBOqMS-4V5UKSKQC8RDASeBC3LLerf/view?usp=sharing))
 
 ---
 
