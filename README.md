@@ -183,26 +183,26 @@ app/src/main/java/com/example/placely/
 
 ---
 
-## 📸 Screenshots
+📱 App Screenshots
 
-### Home Screen
-
-
-
-![Home Screen](https://drive.google.com/file/d/1mGzO1qP5ShmoHbaWT-YqXIUPHVZIlDGk/view?usp=sharing)
+🏠 Home Screen
+![Home Screen](https://drive.google.com/uc?export=view&id=1mGzO1qP5ShmoHbaWT-YqXIUPHVZIlDGk)
 
 
-### Reminders
+📝 Notes Screen
+![Notes Screen](https://drive.google.com/uc?export=view&id=1LJHaZYCAGy6YTZ_yYmUqRXTXLJnMfBm8)
 
-![Reminders Screen](https://drive.google.com/file/d/1CbkkHNSNOHr0XxEEroGeFkF2zTp98rfU/view?usp=sharing)
 
-### Tasks
+⏰ Reminders Screen
+![Reminders Screen](https://drive.google.com/uc?export=view&id=1CbkkHNSNOHr0XxEEroGeFkF2zTp98rfU)
 
-![Tasks Screen](https://drive.google.com/file/d/1WUvN_LaFPioKXQbfqb9CKDjQx94mU8tX/view?usp=sharing)
 
-### Calender
+🗂️ Tasks Screen
+![Tasks Screen](https://drive.google.com/uc?export=view&id=1WUvN_LaFPioKXQbfqb9CKDjQx94mU8tX)
 
-![Calender Screen]((https://drive.google.com/file/d/1QVhBOqMS-4V5UKSKQC8RDASeBC3LLerf/view?usp=sharing))
+🗓️ Calendar Screen
+![Calendar Screen](https://drive.google.com/uc?export=view&id=1QVhBOqMS-4V5UKSKQC8RDASeBC3LLerf)
+
 
 ---
 
